@@ -13,10 +13,10 @@
 
 **Estilos de caracter**
 
-    title-xl(extreme large) - Roboto-64px
-    title-lg(large) - Roboto-48px
-    title-md() - Roboto-24px
-    paragraph-md() - Roboto-16px
+    title-xl - Roboto-64px
+    title-lg - Roboto-48px
+    title-md - Roboto-24px
+    paragraph-md - Roboto-16px
 
 <hr>
 
